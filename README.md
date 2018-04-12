@@ -6,6 +6,12 @@
 
 Caffe2 is a lightweight, modular, and scalable deep learning framework. Building on the original [Caffe](http://caffe.berkeleyvision.org), Caffe2 is designed with expression, speed, and modularity in mind.
 
+## Cross Compile
+
+Run the file: scripts/cross-compile.sh
+
+The file is modified from scripts/build_android.sh
+
 ## Questions and Feedback
 
 Please use Github issues (https://github.com/caffe2/caffe2/issues) to ask questions, report bugs, and request new features.
